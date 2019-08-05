@@ -2,7 +2,7 @@
 	"name": "com.cratesmith.popoutinspector",
 	"displayName": "Cratesmith.PopoutInspector",
 	"description": "Provides a popout window that acts as an inspector locked to a single asset or object.\nOverrides fallback property drawer for reference types to add a button to create a popout inspector of that reference",
-	"version": "0.0.1",
+	"version": "0.0.1-develop",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {
